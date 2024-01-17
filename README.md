@@ -1,2 +1,1 @@
-# cafemenu
-A café menu that can be filtered. Based on a project introduced in Javascript Tutorial and Projects Course by John Smilga.
+This menu project was introduced in Javascript Tutorial and Projects Course by John Smilga. I did this project so that I could put my CSS and JavaScript skills into practise. Although there was a tutorial to follow for this project, I wanted to make modifications to add a personal touch to the project. As a coffee lover, I wanted to make the menu suitable for a café, and therefore I especially played with CSS, which I modified quite heavily.
